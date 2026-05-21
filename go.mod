@@ -16,17 +16,17 @@ require (
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/pflag v1.0.10
 	github.com/stretchr/testify v1.11.1
-	go.opentelemetry.io/otel v1.41.0
+	go.opentelemetry.io/otel v1.43.0
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetricgrpc v1.40.0
 	go.opentelemetry.io/otel/exporters/otlp/otlpmetric/otlpmetrichttp v1.40.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.40.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.40.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.40.0
 	go.opentelemetry.io/otel/exporters/prometheus v0.62.0
-	go.opentelemetry.io/otel/metric v1.41.0
+	go.opentelemetry.io/otel/metric v1.43.0
 	go.opentelemetry.io/otel/sdk v1.40.0
 	go.opentelemetry.io/otel/sdk/metric v1.40.0
-	go.opentelemetry.io/otel/trace v1.41.0
+	go.opentelemetry.io/otel/trace v1.43.0
 	golang.org/x/oauth2 v0.35.0
 	golang.org/x/sync v0.19.0
 	helm.sh/helm/v3 v3.20.2
@@ -60,7 +60,7 @@ require (
 	github.com/cenkalti/backoff/v5 v5.0.3 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/chai2010/gettext-go v1.0.3 // indirect
-	github.com/containerd/containerd v1.7.30 // indirect
+	github.com/containerd/containerd v1.7.32 // indirect
 	github.com/containerd/errdefs v0.3.0 // indirect
 	github.com/containerd/log v0.1.0 // indirect
 	github.com/containerd/platforms v0.2.1 // indirect
@@ -107,7 +107,7 @@ require (
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/go-wordwrap v1.0.1 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
-	github.com/moby/spdystream v0.5.0 // indirect
+	github.com/moby/spdystream v0.5.1 // indirect
 	github.com/moby/term v0.5.2 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.3-0.20250322232337-35a7c28c31ee // indirect
