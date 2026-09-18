@@ -28,7 +28,7 @@ require (
 	go.opentelemetry.io/otel/sdk/metric v1.40.0
 	go.opentelemetry.io/otel/trace v1.43.0
 	golang.org/x/oauth2 v0.35.0
-	golang.org/x/sync v0.19.0
+	golang.org/x/sync v0.22.0
 	helm.sh/helm/v3 v3.20.2
 	k8s.io/api v0.35.1
 	k8s.io/apiextensions-apiserver v0.35.1
@@ -157,7 +157,7 @@ require (
 	k8s.io/apiserver v0.35.1 // indirect
 	k8s.io/component-base v0.35.1 // indirect
 	k8s.io/kube-openapi v0.0.0-20250910181357-589584f1c912 // indirect
-	oras.land/oras-go/v2 v2.6.0 // indirect
+	oras.land/oras-go/v2 v2.6.2 // indirect
 	sigs.k8s.io/json v0.0.0-20250730193827-2d320260d730 // indirect
 	sigs.k8s.io/kustomize/api v0.20.1 // indirect
 	sigs.k8s.io/kustomize/kyaml v0.20.1 // indirect
